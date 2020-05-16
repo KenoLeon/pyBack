@@ -20,6 +20,11 @@ data['people'].append({
     'website': 'apple.com',
     'from': 'Alabama'
 })
+data['people'].append({
+    'name': 'Keno',
+    'website': 'k3no.com',
+    'from': 'Mexico'
+})
 
 def saveJSON():
     with open('pyBack/data/someJSON.txt', 'w+') as outfile:
