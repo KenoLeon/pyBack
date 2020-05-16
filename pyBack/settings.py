@@ -25,7 +25,7 @@ SECRET_KEY = 'hy!o153+zj-jzc8-wxl28eel06+lhq*+!c4%$^uv*b_!zxie8j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['py-back.rov.numerdash.com']
+ALLOWED_HOSTS = ['py-back.rov.numerdash.com','127.0.0.1']
 
 
 # Application definition
